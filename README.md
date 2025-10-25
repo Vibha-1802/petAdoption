@@ -55,7 +55,8 @@ A full-stack database management system for a pet adoption center. This project 
 
 <img width="3222" height="2396" alt="physical_schema" src="https://github.com/user-attachments/assets/f59d2c39-2c71-4dad-ba26-79fb78b4731e" />
 <img width="3222" height="2396" alt="logical_schema" src="https://github.com/user-attachments/assets/6d4cea24-86f3-48e9-a497-3e96e8fa8055" />
-
+<img width="3222" height="2396" alt="logical_schema1" src="https://github.com/user-attachments/assets/5086d7a2-2818-4fd6-b9b9-ab28feb4bfd3" />
+<img width="3222" height="2396" alt="ER_Diagram" src="https://github.com/user-attachments/assets/f13d1bbf-ee59-41fc-a77d-3914f7749e05" />
 <img width="1728" height="1117" alt="1" src="https://github.com/user-attachments/assets/a3561d32-3633-43a7-a27e-513d5fe3a4d4" />
 <img width="1728" height="1117" alt="8" src="https://github.com/user-attachments/assets/e3085e9d-744c-4f38-89da-3d21787dd9e1" />
 <img width="1728" height="1117" alt="9" src="https://github.com/user-attachments/assets/a2322038-15f0-4f40-ac98-b4495cb8d393" />
